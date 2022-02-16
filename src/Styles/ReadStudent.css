@@ -1,0 +1,26 @@
+
+
+#readstudent-container{
+    width: 100%;
+    color: white;
+}
+
+.person-logo{
+     width: 100% !important;   
+}
+
+#readstudent-row{
+    margin-top: 100px;
+    
+}
+.personal-info{
+    margin-top: 19px;
+    font-size: 20px;
+    list-style-type: none;
+}
+.readstudent-column{
+    border: 1px inset white;
+    padding: 20px;
+    border-radius: 10px;
+    
+}

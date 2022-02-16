@@ -1,0 +1,15 @@
+#home-container{
+  height: 100vh;
+  background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(https://images.pexels.com/photos/9572688/pexels-photo-9572688.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#home-header{
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 30vh;
+    color:#ffff;
+  }

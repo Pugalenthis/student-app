@@ -1,0 +1,26 @@
+
+.input-box{
+    display: flex !important;
+    flex-direction: column;
+    width: 50% !important;
+    margin-top:20px !important;
+    background-color: white;
+  
+}
+
+#getstudent-container{
+    margin-top: 25px;
+    background-color: white !important;
+    height: 91vh;
+}
+
+.input-group{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+}
+
+.create-student-button{
+    margin-top: 20px !important;
+}
